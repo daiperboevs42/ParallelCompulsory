@@ -1,0 +1,10 @@
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\bin\Debug\ParallelCompulsory.exe.config
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\bin\Debug\ParallelCompulsory.exe
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\bin\Debug\ParallelCompulsory.pdb
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.Properties.Resources.resources
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.exe
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.pdb
