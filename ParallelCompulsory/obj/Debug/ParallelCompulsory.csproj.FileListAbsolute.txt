@@ -8,3 +8,4 @@ C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\Par
 C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.csproj.CoreCompileInputs.cache
 C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.exe
 C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.pdb
+C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.Form1.resources

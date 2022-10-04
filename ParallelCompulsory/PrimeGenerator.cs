@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace ParallelCompulsory
 {
@@ -76,7 +73,7 @@ namespace ParallelCompulsory
             return primes;
         }
 
-        static List<long> GeneratePrimes(long start, long end)
+        /*static List<long> GeneratePrimes(long start, long end)
         {
             bool isPrime = true;
             List<long> primes = new List<long>();
@@ -97,7 +94,7 @@ namespace ParallelCompulsory
                 isPrime = true;
             }
             return primes;
-        }
+        }**/
 
     }
 }

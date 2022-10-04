@@ -5,20 +5,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        long start = 1000000;
-        long end = 2000000;
+        long start = 100000;
+        long end = 200000;
         List<long> primes = new List<long>();
         var primeGen = new PrimeGenerator();
         Console.WriteLine("Press any key to start sequential");
         Console.ReadKey();
         Console.WriteLine($"Calculating Prime Sequentially from {start} to {end}");
         MeasureTime(() => primes = primeGen.GetPrimesSequential(start, end));
-        //PrintPrimes(primes);
+        PrintPrimes(primes);
 
         Console.WriteLine("Press any key to start parallel");
         Console.ReadKey();
         MeasureTime(() => primes = primeGen.GetPrimesParallel(start, end));
-        //PrintPrimes(primes);
+        PrintPrimes(primes);
     }
 
     static void PrintPrimes(List<long> calculatedPrimes)
