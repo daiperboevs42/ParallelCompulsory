@@ -9,3 +9,14 @@ C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\Par
 C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.exe
 C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.pdb
 C:\Users\Martin\source\repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.Form1.resources
+D:\Repos\ParallelCompulsory\ParallelCompulsory\bin\Debug\ParallelCompulsory.exe.config
+D:\Repos\ParallelCompulsory\ParallelCompulsory\bin\Debug\ParallelCompulsory.exe
+D:\Repos\ParallelCompulsory\ParallelCompulsory\bin\Debug\ParallelCompulsory.pdb
+D:\Repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.csproj.AssemblyReference.cache
+D:\Repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.csproj.SuggestedBindingRedirects.cache
+D:\Repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.Form1.resources
+D:\Repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.Properties.Resources.resources
+D:\Repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.csproj.GenerateResource.cache
+D:\Repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.csproj.CoreCompileInputs.cache
+D:\Repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.exe
+D:\Repos\ParallelCompulsory\ParallelCompulsory\obj\Debug\ParallelCompulsory.pdb

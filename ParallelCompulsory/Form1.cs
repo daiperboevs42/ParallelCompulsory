@@ -39,7 +39,7 @@ namespace ParallelCompulsory
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private async void button1_Click(object sender, EventArgs e)
         {
             label3.Visible = false;
             long first = 0;
@@ -51,9 +51,9 @@ namespace ParallelCompulsory
                 first = (long)Convert.ToDouble(firstString);
                 second = (long)Convert.ToDouble(secondString);
                 if(checkBox1.Checked == false)
-                primeGen.GetPrimesSequential(first, second);
+                MeasureTime(() => primeGen.GetPrimesSequential(first, second),false);
                 else if(checkBox1.Checked == true)
-                primeGen.GetPrimesParallel(first, second);
+                MeasureTime(() => primeGen.GetPrimesParallel(first, second),true);
             }
             catch
             {
@@ -61,11 +61,15 @@ namespace ParallelCompulsory
             }
         }
 
-        static void MeasureTime(Action ac)
+        private void MeasureTime(Action ac, bool isSequential)
         {
             Stopwatch sw = Stopwatch.StartNew();
             ac.Invoke();
             sw.Stop();
+            if(!isSequential)
+            listView1.Items.Add($"Sequential Time = {sw.Elapsed.TotalSeconds} seconds");
+            else if(isSequential)
+            listView1.Items.Add($"Parallel Time = {sw.Elapsed.TotalSeconds} seconds");
             //Console.WriteLine("Time = {0} seconds", sw.Elapsed.TotalSeconds);
         }
 
